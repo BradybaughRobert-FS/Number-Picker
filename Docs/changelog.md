@@ -9,3 +9,13 @@
 - Title to "Random Number Picker Game"
 
 ### Fixed
+
+## v1.2.1 2023-1-16
+
+### Added
+- Scripting for game
+
+### Changed 
+
+### Fixed
+- Proper indentation
